@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "ЗАМЕНИТЕ_НА_СВОЙ_project_number",
+    "project_id":     "ЗАМЕНИТЕ_НА_СВОЙ_project_id",
+    "storage_bucket": "ЗАМЕНИТЕ_НА_СВОЙ_project_id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "ЗАМЕНИТЕ_НА_СВОЙ_app_id",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "ЗАМЕНИТЕ_НА_СВОЙ_api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

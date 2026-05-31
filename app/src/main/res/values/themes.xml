@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme — используем стиль без ActionBar,
+         т.к. весь UI строится через Jetpack Compose + Material3 -->
+    <style name="Theme.TodoApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Splash screen background -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

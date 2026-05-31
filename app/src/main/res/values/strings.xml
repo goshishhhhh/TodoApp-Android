@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="notification_channel_id">deadline_notifications</string>
+    <string name="notification_channel_name">Дедлайны задач</string>
+    <string name="notification_channel_desc">Уведомления о приближающихся дедлайнах</string>
+</resources>

@@ -1,0 +1,16 @@
+﻿# Android
+*.iml
+.gradle/
+.idea/
+local.properties
+app/build/
+build/
+*.apk
+*.aab
+
+# Firebase — НЕ добавляем реальный ключ в git
+# app/google-services.json  ← раскомментируй если не хочешь делиться ключами
+
+# OS
+.DS_Store
+Thumbs.db
